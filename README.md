@@ -15,7 +15,7 @@ The script produces CSV output in the following format:
 
 ```
 stop_id,stop_name,stop_lon,stop_lat,stop_code
-"103204","Emden(Ostfriesl) B 210/Kolonie",7.211847,53.400005,""
+"102298","Langen(b Bremerhaven) Amtsgericht Geestland",8.59962,53.60878,""
 ```
 
 # Prerequisites
